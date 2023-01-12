@@ -1,0 +1,15 @@
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\bin\Debug\net6.0\Koleksiyon_Odev.exe
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\bin\Debug\net6.0\Koleksiyon_Odev.deps.json
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\bin\Debug\net6.0\Koleksiyon_Odev.runtimeconfig.json
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\bin\Debug\net6.0\Koleksiyon_Odev.dll
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\bin\Debug\net6.0\Koleksiyon_Odev.pdb
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\Koleksiyon_Odev.csproj.AssemblyReference.cache
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\Koleksiyon_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\Koleksiyon_Odev.AssemblyInfoInputs.cache
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\Koleksiyon_Odev.AssemblyInfo.cs
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\Koleksiyon_Odev.csproj.CoreCompileInputs.cache
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\Koleksiyon_Odev.dll
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\refint\Koleksiyon_Odev.dll
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\Koleksiyon_Odev.pdb
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\Koleksiyon_Odev.genruntimeconfig.cache
+C:\Users\mucah\OneDrive\Masaüstü\ODEV\Koleksiyon_Odev\obj\Debug\net6.0\ref\Koleksiyon_Odev.dll
